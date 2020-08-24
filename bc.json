@@ -101,7 +101,7 @@
         {
             "slug": "07-lambda-function-two",
             "title": "07-lambda-function-two",
-            "done": false,
+            "done": true,
             "path": "exercises/07-lambda-function-two",
             "translations": [
                 "es",
@@ -134,7 +134,7 @@
         {
             "slug": "10-Array-Methods",
             "title": "10-Array-Methods",
-            "done": false,
+            "done": true,
             "path": "exercises/10-Array-Methods",
             "translations": [
                 "es",
